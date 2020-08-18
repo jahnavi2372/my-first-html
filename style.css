@@ -1,0 +1,52 @@
+
+h1{
+	font-family: Montserrat;
+	text-align: center;
+	background-color: black;
+	color: white;
+	
+	padding: 30px;
+}
+
+hr{
+	border:2px solid black;
+	width: 50%;
+}
+
+p{
+	font-family: Montserrat;
+	margin-left: 70px;
+	margin-right: 70px;
+	margin-top: 20px;
+}
+img{
+	width: 35%;
+	margin-top: 50px;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+}
+
+nav{
+	background-color: black;
+	padding: 10px;
+}
+
+ul{
+	list-style: none;
+}
+li{
+	display: inline;
+	margin: 100px;
+}
+li a{
+	color: white;
+	text-decoration: none;
+	font-family: Montserrat;
+}
+
+footer{
+	background-color: black;
+	color: white;
+	padding: 10px;
+	text-align: center;
+	}
